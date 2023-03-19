@@ -1,0 +1,60 @@
+body {
+    padding: 20 px;
+    text-align: center;
+    background-color: #0cfdb1;
+
+
+}
+
+#widget {
+    width: 60 px;
+    background-color: #1c0653;
+    margin: 0 auto;
+    padding: 10 px;
+}
+
+#counter {
+    height: 50 px;
+    width: 50 px;
+    margin:0 auto;
+    background-color:#fff;
+    color:#555;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+}
+
+#inc {
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#inc:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#dec {
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#ff0000;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#dec:hover {
+    cursor: pointer;
+    background-color:#ffd400;
+    color:#fff;
+}
