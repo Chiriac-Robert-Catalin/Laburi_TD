@@ -1,0 +1,298 @@
+body {
+    padding: 20 px;
+    text-align: center;
+    background-color: #0cfdb1;
+
+
+}
+
+#widget {
+    width: 60 px;
+    background-color: #1c0653;
+    margin: 0 auto;
+    padding: 10 px;
+}
+
+#counter {
+    height: 50 px;
+    width: 50 px;
+    margin: auto;
+    background-color:#fff;
+    color:#555;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+}
+
+#nr1{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#ffffff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr1:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr2{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr2:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr3{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr3:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr4{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr4:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr5{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr5:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr6{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr6:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr7{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr7:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr8{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr8:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr9{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr9:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#nr0{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#nr0:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#sp{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#sp:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#ss{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#ss:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#sm{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#sm:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#sd{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#sd:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#se{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#fff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#se:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
+#inv{
+    margin-top: 10 px;
+    height: 50 px;
+    width: 50 px;
+    background-color:#5b9aff;
+    color:#ffffff;
+    text-align:center;
+    line-height:50 px;
+    font-size:20 px;
+    border:0 px;
+}
+
+#inv:hover {
+    cursor: pointer;
+    background-color:#8cb8ff;
+    color:#fff;
+}
