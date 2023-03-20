@@ -20,7 +20,7 @@ function getFibonacci(n)
                 F1=F2;
                 i++;
             }
-            return vector;
+            return "["+vector+"]";
         }
         else
         return "not allowed"
@@ -28,5 +28,5 @@ function getFibonacci(n)
 }
 function inputFib(){
     var inputNumber = parseInt(document.getElementById("n").value);
-    document.getElementById("ecran").innerHTML="["+getFibonacci(inputNumber)+"]";
+    document.getElementById("ecran").innerHTML=getFibonacci(inputNumber);
 }
